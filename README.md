@@ -8,16 +8,21 @@
 ####      C108118244 廖荃宜
 ####      C108118241 潘彥彤
 
+***
 
-
+```python
+print('hello world')
+```
+    
+👉`123`
 
 ![NKUST](nkust.png "高科大")
 [NKUST](https://www.nkust.edu.tw)
 
-- [] todo list
+- [ ] todo list
 
-- [x] done1
+- [x] done
 
--[] unfinished
 
--[x] done2
+
+    
