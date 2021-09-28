@@ -9,9 +9,9 @@
 ####      C108118241 潘彥彤
 
 
-![NKUST] (https://www.nkust.edu.tw/ "高科大")
+![NKUST](https://www.nkust.edu.tw/ "高科大")
 
-！[NKUST] (nkust.png"NKUST")
+![NKUST](nkust.png "高科大")
 
 -[] todo list
 
