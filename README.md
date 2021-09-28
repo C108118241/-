@@ -10,9 +10,6 @@
 
 ***
 
-```python
-print('hello world')
-```
     
 👉`123`
 
@@ -24,5 +21,8 @@ print('hello world')
 - [x] done
 
 
+```python
+print('hello world')
+```
 
     
