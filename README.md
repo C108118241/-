@@ -14,9 +14,9 @@
 ![NKUST](nkust.png "高科大")
 [NKUST](https://www.nkust.edu.tw)
 
--[] todo list
+- [] todo list
 
--[x] done1
+- [x] done1
 
 -[] unfinished
 
