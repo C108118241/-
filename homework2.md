@@ -1,5 +1,5 @@
 ### PERT/CPM圖
-![img](PERT CPM圖.png "PERT CPM圖")
+![img](PERT.png "PERT CPM圖")
 ### 甘特圖
 ![img](甘特圖.png "甘特圖")
 
