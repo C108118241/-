@@ -16,13 +16,14 @@
 ##### test5
 ###### test6
 ***
-*斜體* 字
+Emphasis, aka italics, with asterisks or underscores.
 
-**粗體** 字
+Strong emphasis, aka bold, with **asterisks** or **underscores.**
 
-***斜體加上粗體*** 字
+Combined emphasis with **asterisks** and *underscores*.
 
-~~線呢?~~
+Strikethrough uses two tildes. ~~Scratch this.~~
+
 
 ***
 ![NKUST](nkust.png "高科大")
