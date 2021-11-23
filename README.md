@@ -30,26 +30,16 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 [NKUST](https://www.nkust.edu.tw)
 
 ***
-1. First ordered list item
-
-2. Another ordered item
-
-..* Unordered sub-list.
-
-3. Actual numbers don't matter, just that it's a number
-
-..1. Ordered sub-list
-
+1.First ordered list item
+2.Another item
+..* Unordered sub-list
+3.Actual numbers don't matter, just that it's number
+..1. Ordered sun-list
 ...2. 2nd
-
-4. And another item.
-
+4.And another item.
 ...* note 1
-
 ...* note 2
-
 *** note 3
-
 ***
 - [ ] todo list
 
