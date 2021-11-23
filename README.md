@@ -30,7 +30,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 [NKUST](https://www.nkust.edu.tw)
 
 ***
-
+*red
+-blue
++green
+。ssd
 ***
 - [ ] todo list
 
