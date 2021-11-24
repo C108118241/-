@@ -32,14 +32,14 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ***
 1. First ordered list item
 2. Another ordered item
-‥* Ordered sub-list
++ Ordered sub-list
 3. Actual numbers don't matter, just that it's a number
-‥1. Unordered sub-list item 1
-…2. Unordered sub-list item 2
-2nd sub-list item
++ Unordered sub-list item 1
++ Unordered sub-list item 2
++ 2nd sub-list item
 4. And another item.
-…* note 1
-…* note 2
++ note 1
++ note 2
 *** note 3
 ***
 - [ ] todo list
