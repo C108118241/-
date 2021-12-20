@@ -16,13 +16,13 @@
 ##### test5
 ###### test6
 ***
-Emphasis, aka italics, with asterisks or underscores.
+Emphasis, aka italics, tiht asterisks or underscores.  
 
-Strong emphasis, aka bold, with **asterisks** or **underscores.**
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
-Combined emphasis with **asterisks** and *underscores*.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+Combined emphasis with **asterisks and underscores**.
+ 
+Strikethrough uses two tildes.  ~~Scratch this~~
 
 
 ***
